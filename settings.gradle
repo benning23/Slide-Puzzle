@@ -1,0 +1,2 @@
+rootProject.name = "slidePuzzle"
+include ':app'
